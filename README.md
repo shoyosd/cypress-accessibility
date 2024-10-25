@@ -26,7 +26,7 @@ To run this project, ensure that you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cypress-accessibility-testing.git
+   git clone https://github.com/shoyosd/cypress-accessibility.git
    cd cypress-accessibility-testing
    ```
 
